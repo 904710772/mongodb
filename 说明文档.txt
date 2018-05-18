@@ -1,0 +1,6 @@
+mongodb:
+1.开启服务
+进入 D:\mySoft\mongodb\bin 路径
+执行 mongod --dbpath "D:\mySoft\mongodb\data\db"
+
+2.以管理员身份开启另一个cmd 进入mongoDB的bin文件夹 运行 mongo.exe 或 mongo 
